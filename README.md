@@ -4,6 +4,7 @@
 需要大家填写的地方为
 1.github的主页地址：参考示例
 2.表格部分直接复制即可
+3.写上语雀知识库的地址
 :::
 
 ## Github
@@ -59,3 +60,5 @@ github地址：
 | 39 | react native |  |  |
 | 40 | electron |  |  |
 
+## 语雀知识库
+地址：[https://www.yuque.com/yunyun-glovo/kzyyld?#](https://www.yuque.com/yunyun-glovo/kzyyld?#) 
